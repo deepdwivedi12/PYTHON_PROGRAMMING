@@ -1,4 +1,4 @@
-// Write a Python program to create and print a dictionary.
+# Write a Python program to create and print a dictionary.
 
 student = {
     "Name": "Deep",
