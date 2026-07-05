@@ -1,4 +1,4 @@
-Write a Python program to print natural numbers from N to 1.
+# Write a Python program to print natural numbers from N to 1. 
 
 n = int(input("Enter the value of N: "))
 
