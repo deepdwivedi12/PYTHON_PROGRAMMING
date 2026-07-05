@@ -1,4 +1,4 @@
-// Write a Python program to perform tuple slicing.
+# Write a Python program to perform tuple slicing.
 
 numbers = (10, 20, 30, 40, 50, 60)
 
