@@ -1,4 +1,4 @@
-// Write a Python program to concatenate two strings.
+# Write a Python program to concatenate two strings.
 
 
 first = input("Enter first string: ")
