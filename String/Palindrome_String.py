@@ -1,4 +1,4 @@
-// Write a Python program to check whether a string is a palindrome.
+# Write a Python program to check whether a string is a palindrome.
 
 text = input("Enter a string: ")
 
