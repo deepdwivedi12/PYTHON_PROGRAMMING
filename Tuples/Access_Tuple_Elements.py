@@ -1,4 +1,4 @@
-// Write a Python program to access tuple elements using index.
+# Write a Python program to access tuple elements using index.
 
 fruits = ("Apple", "Banana", "Mango", "Orange")
 
