@@ -1,4 +1,4 @@
-// Write a Python program to concatenate two tuples.
+# Write a Python program to concatenate two tuples.
 
 tuple1 = (10, 20, 30)
 tuple2 = (40, 50, 60)
