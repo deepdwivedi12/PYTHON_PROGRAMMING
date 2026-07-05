@@ -1,4 +1,4 @@
-// Write a Python program to find the average of all elements in a tuple.
+# Write a Python program to find the average of all elements in a tuple.
 
 numbers = (10, 20, 30, 40, 50)
 
