@@ -1,4 +1,4 @@
-Write a Python program to print all even numbers from 1 to N.
+# Write a Python program to print all even numbers from 1 to N. 
 
 
 n = int(input("Enter the value of N: "))
