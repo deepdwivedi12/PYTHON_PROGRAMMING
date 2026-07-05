@@ -1,4 +1,4 @@
-// Write a Python program to find the length of a string.
+# Write a Python program to find the length of a string.
 
 text = input("Enter a string: ")
 
